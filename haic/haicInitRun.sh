@@ -7,7 +7,7 @@
 ./haic init 
 
 #init node
-wget https://www.haichain.io/nodes/haic/static-nodes.json -P ~/.Haic2.0.0/
+wget https://www.haichain.io/nodes/haic/static-nodes.json -P ~/.Haic2.0.0/haic
 
 
 
