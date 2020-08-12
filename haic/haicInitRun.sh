@@ -4,10 +4,10 @@
 ./clear.sh
 
 #add static node
-./haic init 
+./haic init --datadir data
 
 #init node
-wget https://www.haichain.io/nodes/haic/static-nodes.json -P ~/.Haic2.0.0/haic
+wget https://www.haichain.io/nodes/haic/static-nodes.json -P data/haic
 
 
 

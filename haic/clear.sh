@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd ~/.Haic2.0.0/haic/
+cd data
 rm -rf LOCK
 rm -rf chaindata
 rm -rf lightchaindata

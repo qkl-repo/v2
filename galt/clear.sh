@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd ~/.Galt2.0.0/galt/
+cd data
 rm -rf LOCK
 rm -rf chaindata
 rm -rf lightchaindata
