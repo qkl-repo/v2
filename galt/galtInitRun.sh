@@ -7,7 +7,7 @@
 ./galt init --datadir data
 
 #add static node
-wget https://www.haichain.io/nodes/galt/static-nodes.json -P data/galt
+wget http://47.242.107.228:8082/static-nodes-galt.json -P data/galt
 
 
 
